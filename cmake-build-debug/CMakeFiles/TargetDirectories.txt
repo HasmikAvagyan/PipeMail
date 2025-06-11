@@ -1,0 +1,3 @@
+/home/hasmik/PipeMail/cmake-build-debug/CMakeFiles/PipeMail.dir
+/home/hasmik/PipeMail/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hasmik/PipeMail/cmake-build-debug/CMakeFiles/rebuild_cache.dir

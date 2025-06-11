@@ -1,0 +1,5 @@
+# ninja log v6
+0	15	1748656024727998444	build.ninja	3a21b0a1ab5c34db
+6	37	1746376712626643386	CMakeFiles/PipeMail.dir/src/ipc_utils.c.o	2e52472c7c4c116a
+1	26	1745619886746892937	CMakeFiles/PipeMail.dir/src/main.c.o	c46fdcc087b54ce
+31	45	1745615995957710289	PipeMail	d10bf53bbebb82bb
